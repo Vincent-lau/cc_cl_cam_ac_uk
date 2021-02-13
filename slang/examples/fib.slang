@@ -7,5 +7,5 @@ let fib( m : int) : int =
          end 
     end 
 in 
-    fib(?) 
+    fib(5) 
 end 
